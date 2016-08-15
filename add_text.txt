@@ -1,0 +1,2 @@
+Git add text file
+txtファイルを追加したっぽい！
